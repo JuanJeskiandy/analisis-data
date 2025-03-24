@@ -1,6 +1,9 @@
 Analis data Korban Banjir
+
 Nama	:Juan Jeskiandy
+
 Kelas	:2 TRJT
+
 
 
 
