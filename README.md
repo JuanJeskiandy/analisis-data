@@ -2,50 +2,7 @@ Analis data Korban Banjir
 Nama	:Juan Jeskiandy
 Kelas	:2 TRJT
 
-Tabel 1: Data Korban Banjir di DKI Jakarta (Maret 2025)
-Wilayah Jakarta	
-Jumlah Pengungsi (Jiwa)
-	Titik Pengungsian	Keterangan
-Jakarta Pusat
 
-	500	4 titik	Pengungsi tersebar di beberapa kecamatan
-Jakarta Selatan	1.158	5 titik	
-Wilayah dengan pengungsi terbanyak
-
-Jakarta Barat	
-1.000
-	5 titik	Banyak warga yang terdampak banjir
-Jakarta Timur	900
-	7 titik	
-Banyak area yang terendam banjir
-
-Jakarta Utara	
-700
-	4 titik	
-Wilayah dengan jumlah pengungsi lebih sedikit
-
-
-Tabel 2: Analisis Kebutuhan Tenda Pengungsian di DKI Jakarta
-Wilayah Jakarta	Jumlah Pengungsi (Jiwa)	Estimasi Jumlah Tenda	Keterangan
-Jakarta Pusat	500	
-25 – 50 tenda
-	Setiap tenda menampung 10-20 orang
-Jakarta Selatan
-
-	1.158	58 – 116 tenda	Setiap tenda menampung 10-20 orang
-Jakarta Barat	
-1.000
-	
-50 – 100 tenda
-	Setiap tenda menampung 10-20 orang
-Setiap tenda menampung 10-20 orang	900	45 – 90 tenda
-
-	
-Setiap tenda menampung 10-20 orang
-
-Jakarta Utara	700	
-35 – 70 tenda
-	Setiap tenda menampung 10-20 orang
 
 Analisis Kebutuhan Tenda Pengungsian di DKI Jakarta
 Berdasarkan data pengungsi di DKI Jakarta yang tercatat, kebutuhan akan tenda pengungsian cukup tinggi, terutama di wilayah dengan jumlah pengungsi terbesar seperti Jakarta Selatan (1.158 jiwa) dan Jakarta Barat (1.000 jiwa). Berikut adalah analisis kebutuhan tenda berdasarkan wilayah:
